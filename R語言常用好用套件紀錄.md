@@ -1,4 +1,7 @@
 # R語言常用好用套件紀錄
+
+[![hackmd-github-sync-badge](https://hackmd.io/Ib3dNEcyRbavZ_wmjX_lnw/badge)](https://hackmd.io/Ib3dNEcyRbavZ_wmjX_lnw)
+
 > [color=#40f1ef][name=LHB阿好伯, 2020/02/17][:earth_africa:](https://www.facebook.com/LHB0222/)
 ###### tags: `R`
 
